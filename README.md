@@ -5,8 +5,13 @@
 目前支持js、ts、jsx、tsx
 
 #### 用法
-npm i comp-spot   
 
+`npx comp-spot 组件名`  
 
-comp-spot 组件名
+或
+
+`npm i comp-spot -g`  
+
+`comp-spot 组件名`  
+
 
